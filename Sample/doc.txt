@@ -1,0 +1,2 @@
+﻿Install-Package Microsoft.EntityFrameworkCore -Version 3.0.0
+Install-Package Microsoft.EntityFrameworkCore -Version 2.2.2
